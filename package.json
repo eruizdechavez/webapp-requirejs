@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "BSD",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~3.2.0"
+  }
+}
